@@ -1,1 +1,1 @@
-# Rice-Classification
+# Rice Classification
